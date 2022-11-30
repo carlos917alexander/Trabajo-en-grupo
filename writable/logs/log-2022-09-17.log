@@ -1,0 +1,500 @@
+ERROR - 2022-09-17 00:32:12 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+CRITICAL - 2022-09-17 00:32:12 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `PROVINCIA`
+ORDER BY `NAME` ASC', [], false)
+ 3 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:32:24 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+CRITICAL - 2022-09-17 00:32:24 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `PROVINCIA`
+ORDER BY `NAME` ASC', [], false)
+ 3 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:33:25 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+CRITICAL - 2022-09-17 00:33:25 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `PROVINCIA`
+ORDER BY `NAME` ASC', [], false)
+ 3 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:33:43 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+CRITICAL - 2022-09-17 00:33:43 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PROVINCIA` (`NAME`, `CAPITAL`, `REGION`, `DESCRIPTION`, `IMAGE`) VALUES (:NAME:, :CAPITAL:, :REGION:, :DESCRIPTION:, :IMAGE:)', [...], false)
+ 3 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 4 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 5 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 6 APPPATH\Controllers\Provincia.php(45): CodeIgniter\Model->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:33:50 --> Error connecting to the database: MySQL server has gone away
+CRITICAL - 2022-09-17 00:33:50 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PROVINCIA` (`NAME`, `CAPITAL`, `REGION`, `DESCRIPTION`, `IMAGE`) VALUES (:NAME:, :CAPITAL:, :REGION:, :DESCRIPTION:, :IMAGE:)', [...], false)
+ 3 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 4 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 5 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 6 APPPATH\Controllers\Provincia.php(45): CodeIgniter\Model->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:34:01 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+CRITICAL - 2022-09-17 00:34:01 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `PROVINCIA`
+ORDER BY `NAME` ASC', [], false)
+ 3 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:38:37 --> Table 'webprovincias.provincia' doesn't exist in engine
+CRITICAL - 2022-09-17 00:38:37 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:38:50 --> Table 'webprovincias.provincia' doesn't exist in engine
+CRITICAL - 2022-09-17 00:38:50 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:46:37 --> Table 'webprovincias.provincia' doesn't exist
+ERROR - 2022-09-17 00:46:39 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:46:39 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:47:49 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:47:49 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:47:50 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:47:50 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:48:48 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:48:48 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:48:49 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:48:49 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:49:27 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:49:27 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:52:02 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:52:02 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:53:39 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:53:39 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:53:40 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:53:40 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:53:41 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:53:41 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:53:41 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:53:41 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:54:33 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:54:33 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 00:57:33 --> Table 'webprovincias.provincia' doesn't exist
+ERROR - 2022-09-17 00:58:40 --> Table 'webprovincias.provincia' doesn't exist
+ERROR - 2022-09-17 00:59:20 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 00:59:20 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 01:00:32 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 01:00:32 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 01:00:37 --> Table 'webprovincias.provincia' doesn't exist
+CRITICAL - 2022-09-17 01:00:37 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:05:57 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 231.
+ 1 SYSTEMPATH\CodeIgniter.php(231): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(189): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-17 08:23:34 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 231.
+ 1 SYSTEMPATH\CodeIgniter.php(231): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(189): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-17 08:27:10 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 231.
+ 1 SYSTEMPATH\CodeIgniter.php(231): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(189): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-09-17 08:30:24 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 231.
+ 1 SYSTEMPATH\CodeIgniter.php(231): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(189): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+ERROR - 2022-09-17 05:51:53 --> Error connecting to the database: Unknown database 'webprovincias'
+CRITICAL - 2022-09-17 05:51:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'webprovincias'
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `PROVINCIA`
+ORDER BY `NAME` ASC', [], false)
+ 3 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 05:52:57 --> Error connecting to the database: Unknown database 'provincessie'
+CRITICAL - 2022-09-17 05:52:57 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'provincessie'
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `PROVINCIA`
+ORDER BY `NAME` ASC', [], false)
+ 3 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 05:57:52 --> file_get_contents(15933339.jpg): failed to open stream: No such file or directory
+in APPPATH\Views\provincia\list.php on line 27.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(15933339.jpg): failed to open stream: No such file or directory', 'APPPATH\\Views\\provincia\\list.php', 27, [...])
+ 2 APPPATH\Views\provincia\list.php(27): file_get_contents('15933339.jpg')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\provincia\\list.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('provincia/list', [], true)
+ 6 APPPATH\Controllers\Provincia.php(17): view('provincia/list', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 05:58:25 --> file_get_contents(15933339.jpg): failed to open stream: No such file or directory
+in APPPATH\Views\provincia\list.php on line 27.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(15933339.jpg): failed to open stream: No such file or directory', 'APPPATH\\Views\\provincia\\list.php', 27, [...])
+ 2 APPPATH\Views\provincia\list.php(27): file_get_contents('15933339.jpg')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\provincia\\list.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('provincia/list', [], true)
+ 6 APPPATH\Controllers\Provincia.php(17): view('provincia/list', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-17 06:46:54 --> Error connecting to the database: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+CRITICAL - 2022-09-17 06:46:54 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `PROVINCIA`
+ORDER BY `NAME` ASC', [], false)
+ 3 SYSTEMPATH\Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Provincia.php(16): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->list()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 07:15:57 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\provincia\edition.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-17 07:16:37 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\provincia\edition.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-17 07:17:47 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\provincia\edition.php on line 62.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-17 07:18:38 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\provincia\edition.php on line 1.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-17 07:19:13 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\provincia\edition.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-17 07:22:34 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+in APPPATH\Views\provincia\edition.php on line 63.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-17 07:23:48 --> syntax error, unexpected '<'
+in APPPATH\Controllers\Provincia.php on line 53.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Provincia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Provincia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Provincia')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Provincia')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Provincia', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 07:24:04 --> syntax error, unexpected '<', expecting end of file
+in APPPATH\Controllers\Provincia.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Provincia.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Provincia')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Provincia')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Provincia')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Provincia', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:50:46 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 37.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 37, [...])
+ 2 APPPATH\Controllers\Provincia.php(37): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:51:03 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 43, [...])
+ 2 APPPATH\Controllers\Provincia.php(43): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:52:25 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 38, [...])
+ 2 APPPATH\Controllers\Provincia.php(38): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:52:34 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 38, [...])
+ 2 APPPATH\Controllers\Provincia.php(38): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:52:50 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 44, [...])
+ 2 APPPATH\Controllers\Provincia.php(44): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:52:55 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 44, [...])
+ 2 APPPATH\Controllers\Provincia.php(44): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:52:59 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 44, [...])
+ 2 APPPATH\Controllers\Provincia.php(44): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 08:53:24 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 44.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 44, [...])
+ 2 APPPATH\Controllers\Provincia.php(44): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 09:03:16 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 43, [...])
+ 2 APPPATH\Controllers\Provincia.php(43): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 09:34:49 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 43, [...])
+ 2 APPPATH\Controllers\Provincia.php(43): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 10:42:37 --> fopen(): Filename cannot be empty
+in APPPATH\Controllers\Provincia.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(): Filename cannot be empty', 'APPPATH\\Controllers\\Provincia.php', 43, [...])
+ 2 APPPATH\Controllers\Provincia.php(43): fopen('ROOTPATH\\public', 'r')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Provincia->save()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Provincia))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 12:48:34 --> View themes, no current section.
+in SYSTEMPATH\View\View.php on line 392.
+ 1 APPPATH\Views\Opening.php(146): CodeIgniter\View\View->endSection()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Opening.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Opening', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('Opening')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 12:55:29 --> Invalid file: Front/layout/carrosel.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Front/layout/carrosel.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('Front/layout/carrosel', null, true)
+ 3 APPPATH\Views\Front\layout\main.php(22): CodeIgniter\View\View->include('Front/layout/carrosel')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Front\\layout\\main.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Front/layout/main', [], true)
+ 7 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Opening', [], true)
+ 8 APPPATH\Controllers\Home.php(9): view('Opening')
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-17 12:55:46 --> Invalid file: Front/layout/carrosel.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Front/layout/carrosel.php')
+ 2 SYSTEMPATH\View\View.php(429): CodeIgniter\View\View->render('Front/layout/carrosel', null, true)
+ 3 APPPATH\Views\Front\layout\main.php(22): CodeIgniter\View\View->include('Front/layout/carrosel')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Front\\layout\\main.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Front/layout/main', [], true)
+ 7 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Opening', [], true)
+ 8 APPPATH\Controllers\Home.php(9): view('Opening')
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

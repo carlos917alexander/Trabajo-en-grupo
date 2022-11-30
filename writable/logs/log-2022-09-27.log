@@ -1,0 +1,818 @@
+CRITICAL - 2022-09-27 08:52:01 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:53:28 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:53:42 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:55:13 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:55:14 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:55:14 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:55:46 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:55:46 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:55:47 --> Invalid file: welcome/cabezera.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome/cabezera.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('welcome/cabezera', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome/cabezera')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:28:40 --> Undefined variable $provincias
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $provincias', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:28:55 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:30:03 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:30:10 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:30:17 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:31:51 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:33:43 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:34:54 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 12.
+ 1 APPPATH\Views\servicios.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:37:44 --> Cannot declare class App\Controllers\Mascota because the name is already in use
+in APPPATH\Controllers\Mascota.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-27 09:38:18 --> Cannot declare class App\Controllers\Mascota because the name is already in use
+in APPPATH\Controllers\Mascota.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2022-09-27 09:38:50 --> Error connecting to the database: Unknown database 'provincessite'
+CRITICAL - 2022-09-27 09:38:50 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'provincessite'
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `MASCOTA` (`PROPETARIO`, `MASCOTA`, `RAZA`, `CARNET_VACUNA`) VALUES (:PROPETARIO:, :MASCOTA:, :RAZA:, :CARNET_VACUNA:)', [...], false)
+ 3 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 4 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 5 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 6 APPPATH\Controllers\Mascota.php(47): CodeIgniter\Model->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->save()
+ 8 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 9 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:41:41 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:41:50 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:43:22 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:44:31 --> Undefined variable $mascotas
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascotas', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:45:13 --> Undefined variable $mascotas
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascotas', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:45:19 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:45:20 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:45:21 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:45:21 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:45:21 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:47:19 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:47:51 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:48:02 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:50:13 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:50:45 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:50:48 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:51:18 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:51:20 --> Undefined variable $mascota
+in APPPATH\Views\informe.php on line 12.
+ 1 APPPATH\Views\informe.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\informe.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\informe.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('informe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->informe()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:53:00 --> Invalid file: informe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('informe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 3 APPPATH\Controllers\Mascota.php(18): view('informe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:53:07 --> Invalid file: informe.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('informe.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('informe', [], true)
+ 3 APPPATH\Controllers\Mascota.php(18): view('informe', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:53:47 --> Undefined variable $provincia
+in APPPATH\Views\mascota\edition.php on line 21.
+ 1 APPPATH\Views\mascota\edition.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $provincia', 'APPPATH\\Views\\mascota\\edition.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\edition.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/edition', [], true)
+ 5 APPPATH\Controllers\Mascota.php(64): view('mascota/edition', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->edition()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:54:34 --> Undefined variable $provincia
+in APPPATH\Views\mascota\edition.php on line 21.
+ 1 APPPATH\Views\mascota\edition.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $provincia', 'APPPATH\\Views\\mascota\\edition.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\edition.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/edition', [], true)
+ 5 APPPATH\Controllers\Mascota.php(64): view('mascota/edition', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->edition()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:54:47 --> Undefined variable $provincia
+in APPPATH\Views\mascota\edition.php on line 21.
+ 1 APPPATH\Views\mascota\edition.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $provincia', 'APPPATH\\Views\\mascota\\edition.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\edition.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/edition', [], true)
+ 5 APPPATH\Controllers\Mascota.php(64): view('mascota/edition', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->edition()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:55:24 --> Undefined array key "ID_PROVINCIA"
+in APPPATH\Views\mascota\edition.php on line 21.
+ 1 APPPATH\Views\mascota\edition.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ID_PROVINCIA"', 'APPPATH\\Views\\mascota\\edition.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\edition.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/edition', [], true)
+ 5 APPPATH\Controllers\Mascota.php(64): view('mascota/edition', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->edition()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:56:40 --> Undefined constant "App\Controllers\Mascota"
+in APPPATH\Controllers\Mascota.php on line 51.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->save()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:33:37 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 27.
+ 1 APPPATH\Views\servicios.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 27)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:33:43 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 27.
+ 1 APPPATH\Views\servicios.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 27)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:33:46 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 27.
+ 1 APPPATH\Views\servicios.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 27)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:35:15 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 28.
+ 1 APPPATH\Views\servicios.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:35:38 --> Undefined array key "ID_MASCOTA"
+in APPPATH\Views\servicios.php on line 28.
+ 1 APPPATH\Views\servicios.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ID_MASCOTA"', 'APPPATH\\Views\\servicios.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:35:39 --> Undefined array key "ID_MASCOTA"
+in APPPATH\Views\servicios.php on line 28.
+ 1 APPPATH\Views\servicios.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ID_MASCOTA"', 'APPPATH\\Views\\servicios.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:37:30 --> Undefined array key "ID_MASCOTA"
+in APPPATH\Views\servicios.php on line 28.
+ 1 APPPATH\Views\servicios.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ID_MASCOTA"', 'APPPATH\\Views\\servicios.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:38:04 --> Undefined array key "ID_MASCOTA"
+in APPPATH\Views\servicios.php on line 28.
+ 1 APPPATH\Views\servicios.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ID_MASCOTA"', 'APPPATH\\Views\\servicios.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:56:27 --> Undefined variable $cabezera
+in APPPATH\Views\mascota\add.php on line 1.
+ 1 APPPATH\Views\mascota\add.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabezera', 'APPPATH\\Views\\mascota\\add.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/add', [], true)
+ 5 APPPATH\Controllers\Mascota.php(23): view('mascota/add')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->add()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:56:58 --> Undefined variable $cabezera
+in APPPATH\Views\mascota\add.php on line 1.
+ 1 APPPATH\Views\mascota\add.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabezera', 'APPPATH\\Views\\mascota\\add.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/add', [], true)
+ 5 APPPATH\Controllers\Mascota.php(23): view('mascota/add')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->add()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:58:47 --> Undefined variable $cabezera
+in APPPATH\Views\mascota\add.php on line 1.
+ 1 APPPATH\Views\mascota\add.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabezera', 'APPPATH\\Views\\mascota\\add.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/add', [], true)
+ 5 APPPATH\Controllers\Mascota.php(23): view('mascota/add')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->add()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:59:20 --> Undefined variable $cabezera
+in APPPATH\Views\mascota\add.php on line 1.
+ 1 APPPATH\Views\mascota\add.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabezera', 'APPPATH\\Views\\mascota\\add.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/add', [], true)
+ 5 APPPATH\Controllers\Mascota.php(23): view('mascota/add')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->add()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 11:00:19 --> Undefined variable $cabezera
+in APPPATH\Views\mascota\add.php on line 1.
+ 1 APPPATH\Views\mascota\add.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabezera', 'APPPATH\\Views\\mascota\\add.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/add', [], true)
+ 5 APPPATH\Controllers\Mascota.php(23): view('mascota/add')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->add()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 11:01:59 --> Undefined variable $cabezera
+in APPPATH\Views\mascota\add.php on line 1.
+ 1 APPPATH\Views\mascota\add.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cabezera', 'APPPATH\\Views\\mascota\\add.php', 1)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\mascota\\add.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('mascota/add', [], true)
+ 5 APPPATH\Controllers\Mascota.php(23): view('mascota/add')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Mascota->add()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mascota))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 11:20:21 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 11:20:21 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Home.php(22): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 11:21:00 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 11:21:00 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Home.php(22): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 11:21:14 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 11:21:14 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Home.php(22): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 11:21:42 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 11:21:42 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Home.php(22): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:26:24 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:26:24 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:30:13 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:30:13 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:30:45 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:30:45 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:31:18 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:31:18 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:31:20 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:31:20 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:31:20 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:31:20 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:31:20 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:31:20 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:32:15 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:32:15 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:36:59 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:36:59 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:38:44 --> Invalid file: servicios/listar.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('servicios/listar.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios/listar', [], true)
+ 3 APPPATH\Controllers\Servicios.php(15): view('servicios/listar')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:41:42 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:41:42 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Home.php(22): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:42:46 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:42:46 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-27 13:43:43 --> Table 'veterinaria.servgicios' doesn't exist
+CRITICAL - 2022-09-27 13:43:43 --> Call to a member function getResult() on bool
+in SYSTEMPATH\Model.php on line 223.
+ 1 SYSTEMPATH\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+ 2 APPPATH\Controllers\Servicios.php(15): CodeIgniter\BaseModel->findAll()
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:44:22 --> Invalid file: servicios/listar.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('servicios/listar.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios/listar', [], true)
+ 3 APPPATH\Controllers\Servicios.php(18): view('servicios/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:53:52 --> syntax error, unexpected variable "$prov"
+in APPPATH\Views\servicios\list.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios/list', [], true)
+ 3 APPPATH\Controllers\Servicios.php(18): view('servicios/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:54:11 --> syntax error, unexpected variable "$prov"
+in APPPATH\Views\servicios\list.php on line 22.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios/list', [], true)
+ 3 APPPATH\Controllers\Servicios.php(18): view('servicios/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:54:50 --> syntax error, unexpected variable "$prov"
+in APPPATH\Views\servicios\list.php on line 15.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios/list', [], true)
+ 3 APPPATH\Controllers\Servicios.php(18): view('servicios/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:55:12 --> syntax error, unexpected variable "$prov"
+in APPPATH\Views\servicios\list.php on line 15.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios/list', [], true)
+ 3 APPPATH\Controllers\Servicios.php(18): view('servicios/list', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Servicios->list()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicios))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 14:29:09 --> Undefined variable $mascota
+in APPPATH\Views\servicios.php on line 52.
+ 1 APPPATH\Views\servicios.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mascota', 'APPPATH\\Views\\servicios.php', 52)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\servicios.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('servicios', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('servicios', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Home->servicios()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
