@@ -67,7 +67,7 @@
           <a class="nav-link" href="<?php echo base_url();?>/Mascota-listar">Lista de Mascotas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Servicios-listar">Informe</a>
+          <a class="nav-link" href="Servicios-listar">Informe mascotas</a>
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
