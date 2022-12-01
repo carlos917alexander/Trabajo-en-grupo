@@ -1,6 +1,5 @@
 <?php echo $cabezera; ?>
-<center>
-<h1>Lista de Mascotas</h1></center>
+<center><h1>Lista de Mascotas</h1></center>
 <style>
     th{
         color: white;
@@ -12,10 +11,10 @@
 <div class="imagenfondo">
     <table class="table">
         <thead>
-            <th>Propetario</th>
+            <th>Propetario de la Mascota</th>
             <th>Mascota</th>
             <th>Raza</th>
-            <th>Carnet Vacuna</th>
+            <th>tamaño & peso</th>
         </thead>
         <tbody>
             <?php foreach ($mascota as $prov) { ?>

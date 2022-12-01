@@ -12,6 +12,13 @@
     background-size: cover;
     border-style: hidden;
 }
+.fondoinicio{
+    background:url('../images/Perro-y-Gato.jpg') no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    border-style: hidden;
+}
 /* .hoja{
     width: 74%;
     height: 1938.44px;
