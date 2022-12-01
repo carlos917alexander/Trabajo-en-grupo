@@ -1,5 +1,6 @@
 <?php echo $cabezera; ?>
-<h1>Lista de Mascotas</h1>
+<center>
+<h1>Lista de Mascotas</h1></center>
 <style>
     th{
         color: white;
