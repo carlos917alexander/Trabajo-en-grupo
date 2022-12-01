@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="<?php echo base_url();?>./css/bootstrap02.min.css">
     <link rel="stylesheet" href="<?php echo base_url();?>./css/estilos.css">
     <link rel="stylesheet" href="<?php echo base_url();?>/css/ms.css">
-    
-
-        <link href="https://www.derechosintelectuales.gob.ec/wp-content/themes/Sitio-32/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        
+        <link rel="stylesheet" href="./css/bootstrap02.min.css">
+        <link rel="stylesheet" href="./css/estilos.css">
         <link href="<?php echo base_url();?>/css/site.css" rel="stylesheet" type="text/css"/>
         <link rel="icon" href="<?php echo base_url();?>/css/images/favicon.ico" type="image/x-icon" />
         <!-- <link href="https://www.derechosintelectuales.gob.ec/wp-content/themes/Sitio-32/css/logo.css" rel="stylesheet" type="text/css"/> -->
