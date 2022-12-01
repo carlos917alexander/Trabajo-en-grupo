@@ -209,15 +209,9 @@ Todo está 100% en español.
     <div class="barterElements">
         <div class="element">
             <p>Términos de servicio</p>
-            <div>
-                <a href="/terminos-de-servicio">Español</a> <a href="/terms-of-service ">Ingles</a>
-            </div>
             </div>
             <div class="element">
                 <p>Política de privacidad</p>
-                <div>
-                    <a href="/politica-de-privacidad">Español</a><a href="https://escala.com/privacy-policy">Ingles</a>
-                </div>
             </div>
         </div>
         </p>
