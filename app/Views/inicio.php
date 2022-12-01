@@ -152,9 +152,9 @@
         border-radius: 8px;
         color: #fff;
     }
-    .galeria{
+    /* .galeria{
         background: #f2f2f2;
-    }
+    } */
     
     .galeria-cont{
         width: 100%;
@@ -178,7 +178,7 @@
         
     <!--El barter es la parte especial de este contenedor cards-->
     <barter id="bootstrap_PiePagina" class="content-info custom_PiePagina bootstrap_PiePagina principal_PiePagina1">
-    <section class="cards contenedor">
+        <section class="cards contenedor">
             <h2 class="titulo">Ofertas de Trabajo</h2>
             <div class="content-cards">
                 <article class="card">
@@ -201,6 +201,7 @@
                 </article>
             </div>
         </section>
+    </barter>
         <section class="galeria">
             <div class="contenedor">
                 <h2 class="titulo">La Felicidad Esta En Tus Mascotas</h2>
