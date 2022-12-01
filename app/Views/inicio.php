@@ -204,7 +204,7 @@
     </barter>
         <section class="galeria">
             <div class="contenedor">
-                <h2 class="titulo">La Felicidad Esta En Tus Mascotas</h2>
+                <h2 class="titulo" style="background-color:white">La Felicidad Esta En Tus Mascotas</h2>
                 <article class="galeria-cont">
                     <img src="images/Perro-y-Gato.jpg" alt="">
                     <img src="images/cesped-gatos.jpg" alt="">
