@@ -78,4 +78,4 @@
 </div>
 
 </section>
-<?php echo $footer; ?> 
+<?php echo $footer; ?>
