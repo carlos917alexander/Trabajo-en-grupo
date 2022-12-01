@@ -72,7 +72,7 @@
     </div>
 
     <div class="box">
-        <img src="https://veterinarisondureta.es/wp-content/uploads/2015/10/PERRO-HOSPITALIZADO.jpg" alt="">
+        <img src="https://www.clinicaveterinarialescampes.com/wp-content/uploads/2019/07/clinica-veterinaria-les-campes-hospitalizacion-perros.jpg" alt="">
         <div class="info">
             <h3>Hospitalización</h3>
             <span>Clinica Veterinaria</span>
