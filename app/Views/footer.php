@@ -22,7 +22,7 @@
 
                                                       <p class="text">
 
-                  Escala es una plataforma de automatización de marketing y ventas con un CRM muy <br class="desktopTabletElement">
+                  MISION: <br class="desktopTabletElement">
 fácil de usar, diseñada para potenciar el crecimiento de pequeñas y medianas empresas <br class="desktopTabletElement">
 en Hispanoamérica. Inspirada en la metodología de éxito de Andrés Moreno y un grupo <br class="desktopTabletElement">
 de expertos con más de 100 años acumulados construyendo negocios, Escala integra <br class="desktopTabletElement">
