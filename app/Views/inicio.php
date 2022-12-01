@@ -85,7 +85,7 @@
 </div>
 
 </section>
-
+<!--El barter es la parte especial de este contenedor cards-->
 <barter id="bootstrap_PiePagina" class="content-info custom_PiePagina bootstrap_PiePagina principal_PiePagina1">
 <section class="cards contenedor">
         <h2 class="titulo">Ofertas de Trabajo</h2>

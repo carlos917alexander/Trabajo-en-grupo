@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="<?php echo base_url();?>/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url();?>/css/style.css">
     <link rel="stylesheet" href="<?php echo base_url();?>/css/ms.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500&display=swap" rel="stylesheet">
+
     
 
         <link href="https://www.derechosintelectuales.gob.ec/wp-content/themes/Sitio-32/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>

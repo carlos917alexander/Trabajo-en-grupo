@@ -3,7 +3,6 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script> 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script>
     <link rel='stylesheet' id='sage/main.css-css'  href='<?php echo base_url();?>/css/main.css' media='all' />
-    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500&display=swap" rel="stylesheet">
     <style>
         .contenedor,
 .wave-contenedor{
@@ -94,7 +93,7 @@
     </style>
 
 
-
+<barter id="bootstrap_PiePagina" class="content-info custom_PiePagina bootstrap_PiePagina principal_PiePagina1">
 <div class="section-row">
 
   <div class="columns row">
