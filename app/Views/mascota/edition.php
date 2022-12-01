@@ -16,12 +16,12 @@
     }
 </style>
 <?php echo $cabezera; ?>
-<h1>Editar Provincia</h1>
+<center><h1>Editar Provincia</h1></center>
 <div class="FROM">
 <form action="<?=base_url("/Mascota-guardar?ID={$mascota['ID_MASCOTA']}")?>" method="post" class="form">
     <div class="formContent">
         <div>
-            <label for="Nombre">Propetario</label>
+            <label for="Nombre">Propetario de la Mascota</label>
             <input type="text" name="PROPETARIO" id="PROPETARIO" class="form-control" value=<?=$mascota["PROPETARIO"]?>>
         </div>
         <div>
@@ -33,7 +33,7 @@
             <input type="text" name="RAZA" id="RAZA" class="form-control" value=<?=$mascota["RAZA"]?>>
         </div>
         <div>
-            <label for="Nombre">Carnet Vacuna</label>
+            <label for="Nombre">tamaño & peso</label>
             <input type="text" name="CARNET_VACUNA" id="CARNET_VACUNA" class="form-control" value=<?=$mascota["CARNET_VACUNA"]?>>
         </div>
         
