@@ -15,19 +15,19 @@
 
                                                       <div class="containerImage logoPiePagina">
                   
-                  <img src="<?=base_url();?>/images/logo_escala_F34F36_blanco.png">
+                  <img src="<?=base_url();?>/images/logotipo-veterinario-de-la-clínica-con-la-imagen-del-animal-doméstico-84829542.png">
 
               </div>
           
 
                                                       <p class="text">
 
-                  Escala es una plataforma de automatización de marketing y ventas con un CRM muy <br class="desktopTabletElement">
-fácil de usar, diseñada para potenciar el crecimiento de pequeñas y medianas empresas <br class="desktopTabletElement">
-en Hispanoamérica. Inspirada en la metodología de éxito de Andrés Moreno y un grupo <br class="desktopTabletElement">
-de expertos con más de 100 años acumulados construyendo negocios, Escala integra <br class="desktopTabletElement">
-todas las herramientas que necesitas para atraer y convertir clientes fieles. <br class="desktopTabletElement">
-Todo está 100% en español.
+    Es una plataforma de registro y tratamientos para animales y consultas particulares <br class="desktopTabletElement">
+diseño realizado para uso en el sector privado y no ambulatorio de pequeñas y <br class="desktopTabletElement">
+grandes urbes que requiere de instalaciones de un espacio idoneo para las mascotas <br class="desktopTabletElement">
+que atienden animales domesticos y exoticos, estos especialistas velan y apoyan <br class="desktopTabletElement">
+con esta herramienta, puede ser conciderado las observaciones a diagnostico del <br class="desktopTabletElement">
+animal paciente para el uso de este servicio digital.
 
               </p>
           
@@ -116,27 +116,22 @@ Todo está 100% en español.
           <p class="text">
 
               2022 © ExitoWeb, Inc. Proyecto Final. <br class="space">
-<div class="barterElements">
-<div class="element">
-<p>Términos de servicio</p>
-<div>
-<a href="/terminos-de-servicio">Español</a> <a href="/terms-of-service ">Ingles</a>
-</div>
-</div>
-<div class="element">
-<p>Política de privacidad</p>
-<div>
-<a href="/politica-de-privacidad">Español</a><a href="https://escala.com/privacy-policy">Ingles</a>
-</div>
-</div>
-<div class="element">
-<a href="https://escala.com/vulnerability-program">Report Vulnerability</a>
-</div>
-</div>
-
-          </p>
-
-      </div>
+    <div class="barterElements">
+        <div class="element">
+            <p>Términos de servicio</p>
+            <div>
+                <a href="/terminos-de-servicio">Español</a> <a href="/terms-of-service ">Ingles</a>
+            </div>
+            </div>
+            <div class="element">
+                <p>Política de privacidad</p>
+                <div>
+                    <a href="/politica-de-privacidad">Español</a><a href="https://escala.com/privacy-policy">Ingles</a>
+                </div>
+            </div>
+        </div>
+        </p>
+    </div>
   
 </div>
 
