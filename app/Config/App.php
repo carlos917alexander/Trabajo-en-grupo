@@ -24,7 +24,6 @@ class App extends BaseConfig
      *
      * @var string
      */
-    //public $baseURL = 'http://localhost:8080/Proyecto_con_git/public/';
     public $baseURL = 'http://localhost/NUEVOJA/Trabajo-en-grupo/public/';
 
     /**

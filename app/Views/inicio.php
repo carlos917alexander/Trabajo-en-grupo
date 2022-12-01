@@ -1,5 +1,7 @@
 <?php echo $cabezera; ?> 
-
+<!-- <video id='videofondo' class='video-background' autoplay='autoplay' no-controls muted='muted' loop>
+            <source src="<?php echo base_url();?>/videos/outdoor-portrait-of-cute-smiling-puppy-border-collie-sitting-on-park-background-little-dog-with-funny-face-in-sunny-summer-day-outdoors-pet-care-and-funny-animals-life-concept-video.mp4"  type="video/mp4"/>
+        </video>-->
 
 <section class="chef" id="chef">
 <h1>
@@ -83,4 +85,42 @@
 </div>
 
 </section>
+
+<barter id="bootstrap_PiePagina" class="content-info custom_PiePagina bootstrap_PiePagina principal_PiePagina1">
+<section class="cards contenedor">
+        <h2 class="titulo">Ofertas de Trabajo</h2>
+        <div class="content-cards">
+            <article class="card">
+                <i class="far fa-clone"></i>
+                <h3>Estilizados</h3>
+                <p>Tratamientos para el pelaje</p>
+                <a href="" class="cta">Estilizacion</a>
+            </article>
+            <article class="card">
+                <i class="fas fa-database"></i>
+                <h3>Manicure</h3>
+                <p>Cuidamos las patas de tu animal </p>
+                <a href="" class="cta">Manicure</a>
+            </article>
+            <article class="card">
+                <i class="far fa-object-group"></i>
+                <h3>Alimentacion</h3>
+                <p>Plan de alimentacion animal</p>
+                <a href="" class="cta">Alimentacion</a>
+            </article>
+        </div>
+    </section>
+    <section class="galeria">
+        <div class="contenedor">
+            <h2 class="titulo">La Felicidad Esta En Tus Mascotas</h2>
+            <article class="galeria-cont">
+                <img src="images/Perro-y-Gato.jpg" alt="">
+                <img src="images/cesped-gatos.jpg" alt="">
+                <img src="images/m1.jpg" alt="">
+                <img src="images/m2.jpg" alt="">
+                <img src="images/m3.jpg" alt="">
+                <img src="images/m5.jpg" alt="">
+            </article>
+        </div>
+    </section>
 <?php echo $footer; ?>
