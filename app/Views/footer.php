@@ -69,6 +69,28 @@
     border-radius: 8px;
     color: #fff;
 }
+.galeria{
+    background: #f2f2f2;
+}
+
+.galeria-cont{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+
+.galeria-cont>img{
+    width: 30%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    display: block;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, .5);
+    cursor: pointer;
+    overflow: hidden;
+}
+
     </style>
 
 <barter id="bootstrap_PiePagina" class="content-info custom_PiePagina bootstrap_PiePagina principal_PiePagina1">
@@ -92,6 +114,19 @@
                 <h3>Alimentacion</h3>
                 <p>Plan de alimentacion animal</p>
                 <a href="" class="cta">Alimentacion</a>
+            </article>
+        </div>
+    </section>
+    <section class="galeria">
+        <div class="contenedor">
+            <h2 class="titulo">La Felicidad Esta En Tus Mascotas</h2>
+            <article class="galeria-cont">
+                <img src="images/Perro-y-Gato.jpg" alt="">
+                <img src="images/cesped-gatos.jpg" alt="">
+                <img src="images/m1.jpg" alt="">
+                <img src="images/m2.jpg" alt="">
+                <img src="images/m3.jpg" alt="">
+                <img src="images/m5.jpg" alt="">
             </article>
         </div>
     </section>
