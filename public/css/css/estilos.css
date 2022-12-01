@@ -1,0 +1,35 @@
+
+.contenedorverde{
+    background-color: chartreuse;
+}
+
+.contenedoramarillo{
+    background-color: gold;
+}
+
+.contenedorceleste{
+    background-color:cadetblue
+}
+
+.contenedorrojo{
+    background-color: brown;
+}
+ .contenedormorado{
+    background-color: blueviolet;
+ }
+ .contenedorazul{
+    background-color: blue;
+ }
+ .contenedorvoscuro{
+    background-color: rgb(0, 66, 11);
+ }
+ .contenedornaranja{
+    background-color: rgba(255, 94, 0, 0.884);
+ }
+ .contenedorrosa{
+    background-color: rgba(255, 0, 191, 0.925);
+ }
+
+ .contenedorja{
+    background-color: rgb(136, 255, 0);
+ }

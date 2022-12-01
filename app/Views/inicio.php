@@ -1,8 +1,15 @@
 <?php echo $cabezera; ?> 
+
 <video id='videofondo' class='video-background' autoplay='autoplay' no-controls muted='muted' loop>
             <source src="<?php echo base_url();?>/videos/outdoor-portrait-of-cute-smiling-puppy-border-collie-sitting-on-park-background-little-dog-with-funny-face-in-sunny-summer-day-outdoors-pet-care-and-funny-animals-life-concept-video.mp4"  type="video/mp4"/>
         </video>
 <section class="chef" id="chef">
+<h1>
+    <link rel="stylesheet" href="./css/bootstrap03.min.css">
+
+    <link rel="stylesheet" href="./css/estilos.css">
+
+</h1>
 
 <h1 class="heading"> <span> Nuestros servicios </span> </h1>
 <link rel="stylesheet" href="css/ms.css">
