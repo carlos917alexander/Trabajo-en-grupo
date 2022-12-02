@@ -3,7 +3,24 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script> 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script>
     <link rel='stylesheet' id='sage/main.css-css'  href='<?php echo base_url();?>/css/main.css' media='all' />
-
+    <style>
+     @keyframes animar{
+            from{
+                transform: translateY(-100px);
+            }
+            to{
+                transform: translateY(0px);
+            }
+        }
+        @keyframes sombra{
+            0%{
+                transform: scale(1);
+            }
+            100%{
+                transform: scale(0.6);
+            }
+        }
+</style>
 
 <barter id="bootstrap_PiePagina" class="content-info custom_PiePagina bootstrap_PiePagina principal_PiePagina1">
 <div class="section-row">
@@ -20,16 +37,7 @@
               </div>
           
 
-                                                      <p class="text">
-
-                  Escala es una plataforma de automatización de marketing y ventas con un CRM muy <br class="desktopTabletElement">
-fácil de usar, diseñada para potenciar el crecimiento de pequeñas y medianas empresas <br class="desktopTabletElement">
-en Hispanoamérica. Inspirada en la metodología de éxito de Andrés Moreno y un grupo <br class="desktopTabletElement">
-de expertos con más de 100 años acumulados construyendo negocios, Escala integra <br class="desktopTabletElement">
-todas las herramientas que necesitas para atraer y convertir clientes fieles. <br class="desktopTabletElement">
-Todo está 100% en español.
-
-              </p>
+                        
           
           
                                   <div class="menuContainer menu-b-social-networks-container">
@@ -70,44 +78,42 @@ Todo está 100% en español.
           
       </div>
 
-      <div class="columnItem c3">
+   <div>
+   <h1 class="nombre_ara" style="font-size: 30px;
+            margin: 20px;
+            color: #ffcc66;
+            text-shadow: 1px 1px 0 red;">VETCLINIC</h1>
+    <div class="contenedor" style="background: #0575e6;
+            width: 200px;
+            height:220px;
+            margin: 0;
+            background: -webkit-linear-gradient(
+                to bottom,
+                #021b79,
+                #0575e6
+            );
+            background: linear-gradient(to bottom,
+                #021b79,
+                #0575e6);
+                display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;    
+                ">
+        <img src="https://i.ibb.co/XDFkXMx/spiderman-colgando.png" alt="" class="araña" style="
+            height: 250px;
+            width: 200px;
+            vertical-align: top;
+            margin-top: -60px;
+            animation-name: animar;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+            ">
+        <div class="shadow">
 
-          
-                                  <div class="menuContainer">
-
-                                                                              <h3 class="titleMenu">
-                          Nosotros
-                      </h3>
-                  
-
-                                                                              <ul id="menu-b-nosotros-barter" class="navbar-nav  mb-2 mb-md-0 menu"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7857 nav-item"><a href="#" class="nav-link">Nuestra historia</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7858 nav-item"><a href="#" class="nav-link">Blog</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7860 nav-item"><a href="#" class="nav-link">Escala academy</a></li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7859 nav-item"><a href="#" class="nav-link">Trustpilot reviews</a></li>
-</ul>
-                  
-              </div>
-          
-
-          
-
-          <div class="containerImage logoTrustPilot desktop">
-
-
-              <img src="<?=base_url();?>/images/calificacion-escala-trustpilot.png" alt="Ilustración de la excelente calificación general de reseñas de usuarios han dejado en Trustpilot sobre Escala">
-
-          </div>
-
-          <div class="containerImage logoTrustPilot mobi">
-
-
-              <img src="<?=base_url();?>/images/calificacion-escala-trustpilot-mobile.png" alt="Ilustración de la excelente calificación general de reseñas de usuarios han dejado en Trustpilot sobre Escala">
-
-          </div>
-
-
-
-      </div>
+        </div>
+   </div>
 
   </div>
 
