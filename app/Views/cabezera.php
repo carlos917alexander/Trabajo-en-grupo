@@ -7,8 +7,6 @@
     <link rel="stylesheet" href="<?php echo base_url();?>/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo base_url();?>/css/style.css">
     <link rel="stylesheet" href="<?php echo base_url();?>/css/ms.css">
-    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,400,500&display=swap" rel="stylesheet">
-
     
 
         <link href="https://www.derechosintelectuales.gob.ec/wp-content/themes/Sitio-32/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
@@ -69,7 +67,7 @@
           <a class="nav-link" href="<?php echo base_url();?>/Mascota-listar">Lista de Mascotas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Servicios-listar">Informe mascotas</a>
+          <a class="nav-link" href="Servicios-listar">Informe</a>
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
