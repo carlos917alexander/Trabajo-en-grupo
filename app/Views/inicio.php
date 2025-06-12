@@ -33,7 +33,7 @@
             </div>
         
             <div class="box">
-                <img src="https://www.mundogato.net/wp-content/uploads/mi-gato-tomo-paracetamol.jpg" alt="">
+                <img src="https://www.adiosmascota.es/wp-content/uploads/2022/01/paracetamol_a_los_gatos.jpg" alt="">
                 <div class="info">
                     <h3>Desparacitación</h3>
                     <span>Clinica Veterinaria</span>
@@ -45,7 +45,7 @@
         
         
             <<div class="box">
-                <img src="https://cdn0.soyungato.com/es/posts/5/0/2/edad_para_castrar_a_un_gato_205_0_600.jpg" alt="">
+                <img src="https://images.ctfassets.net/denf86kkcx7r/3bgkpRMocxVcBj0mFLaq4S/e507fdc54ef7972a65e4b71880c5f66d/gatoesterilizacion-29" alt="">
                 <div class="info">
                     <h3>Castración</h3>
                     <span>Clinica Veterinaria</span>
