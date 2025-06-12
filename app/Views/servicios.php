@@ -47,14 +47,6 @@
             <input type="number" name="PELUQUERIA" id="PELUQUERIA" class="form-control">
         </div>
         <div>
-            <label for="Nombre">Desparacitación</label>
-            <input type="number" name="DESPARACITACION" id="DESPARACITACION" class="form-control">
-        </div>
-        <div>
-            <label for="Nombre">Castración</label>
-            <input type="number" name="CASTRACION" id="CASTRACION" class="form-control">
-        </div>
-        <div>
             <label for="Nombre">Operación</label>
             <input type="number" name="OPERACION" id="OPERACION" class="form-control">
         </div>
